@@ -2,4 +2,4 @@
 - 👀 I’m interested in electronics
 - 🌱 I’m currently learning python, cnn
 - 💞️ I’m looking to collaborate on electic transportation
-- 📫 How to reach me PM for WhatsApp
+- 📫 PM me for WhatsApp
